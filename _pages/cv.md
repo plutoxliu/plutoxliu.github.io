@@ -69,7 +69,7 @@ Awards
 
 Extra-curricular activities
 ======
-* Jan 2023 - present: Liaison offier at Dog Rescue Dunedin
+* Jan 2023 - present: Liaison officer at Dog Rescue Dunedin
 * Jun 2020 - Dec 2024: Volunteer at New Zealand Land Search and Rescue (Land SAR)
 * Jan 2017: Volunteer at China Concervation and Research Centre for the Giant Panda
 * Aug 2015: Volunteer at the World Wildlife Fund (WWF)
