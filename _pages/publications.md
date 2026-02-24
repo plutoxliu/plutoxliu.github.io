@@ -9,12 +9,6 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 Featured
 ======
 - Liu XP, Duffy GA, Pearman WS, Pertierra LR, Fraser CI (2022). Meta-analysis of Antarctic phylogeography reveals strong sampling bias and critical knowledge gaps. ***Ecography*** : 2022(12). [Doi: 10.1111/ecog.06312.](https://doi.org/10.1111/ecog.06312) <br>
