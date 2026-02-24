@@ -20,12 +20,12 @@ Work experience
 ======
 * Feb 2022 - present: Research assistant
   * Department of Marine Science, University of Otago, New Zealand
-  * Assisting research assoaciated with genetic/genomic analysis as well as general lab work
+  * Assist laboratory-based research with a focus on genomics. Also manage laboratory maintenance, provide induction and basic training for new users.
 
-* Feb 2020 - present: Tutor/Demonstrator
+* Feb 2020 - present: Senior Tutor/Demonstrator
   * Department of Zoology, University of Otago, New Zealand
-  * Teaching undergraduate students from first year to final year of multiple courses.
-
+  * Assist in-class teaching and direct laboratory practice of over five undergraduate courses
+  
 * Jul 2019 - Feb 2020: Research Assistant
   * Department of Zoology, University of Otago, New Zealand
   * Assist research on freshwater disturbance through examining macroinvertebrate communities from streams in the local region.
@@ -58,8 +58,8 @@ Awards
 
 Extra-curricular activities
 ======
-* Jun 2020 - present: Volunteer at New Zealand Land Search and Rescue (SAR)
-* Nov 2023 - present: Liason officer at Dog Rescue Dunedin
+* Jan 2023 - present: Liaison offier at Dog Rescue Dunedin
+* Jun 2020 - Dec 2024: Volunteer at New Zealand Land Search and Rescue (Land SAR)
 * Jan 2017: Volunteer at China Concervation and Research Centre for the Giant Panda
 * Aug 2015: Volunteer at the World Wildlife Fund (WWF)
 * Apr 2014 - Apr 2015: President of the Youth Volunteer Association of Shuangliu High School
