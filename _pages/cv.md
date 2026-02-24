@@ -45,6 +45,17 @@ Work experience
 * Jul 2016 - Aug 2016: Intern reporter
   * TakungpaoWenweipo Media Ltd, Hong Kong
   * Took part in a field trip and studied about the rural communities in Gansu, China. Published news articles on TakungpaoWenweipo Media.
+ 
+Skills
+=====
+* Languages:
+  - Madarine Chinese & Sichuan dialect: native
+  - English: fluent in reading, writing and speaking with 10 years of professional and daily use
+  - Spanish: conversational
+* Computer skills
+  - R: advanced (in basic functions, statistics, bioinformatics and spatial modelling and analysis, able to write functions)
+  - Python: intermediate (in basic functions and spatial modelling and analysis)
+  - ArcGIS/QGIS: intermediate
     
 Awards
 ======
