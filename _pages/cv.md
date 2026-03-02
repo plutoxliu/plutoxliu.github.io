@@ -49,7 +49,7 @@ Work experience
 Skills
 =====
 * Languages:
-  - Madarine Chinese & Sichuan dialect: native
+  - Mandarin Chinese & Sichuan dialect: native
   - English: fluent in reading, writing and speaking with 10 years of professional and daily use
   - Spanish: conversational
 * Computer skills
